@@ -6,4 +6,27 @@ Note: URL = https://github.com/hohno-46466/rZone--misc--IP65_SensorBox-N
 
 Note: URL = git@github.com:hohno-46466/rZone--misc--IP65_SensorBox-N.git
 
+    ./rZone--misc--IP65_SensorBox-N
+     ├──  README.md
+     ├──  README.md.old
+     └──  SensorBox1/
+         ├──  README.md
+         ├──  Scripts/
+         │   └──  README.md
+         ├──  data/
+         │   └──  README.md
+         ├──  docs/
+         │   └──  README.md
+         └──  src/
+             └──  README.md
+     
+     5 directories, 7 files (Sun Aug 28 21:29:43 JST 2022)
+
+
+Sensor boxes that comply with IP65 standards
+
+Note: URL = https://github.com/hohno-46466/rZone--misc--IP65_SensorBox-N
+
+Note: URL = git@github.com:hohno-46466/rZone--misc--IP65_SensorBox-N.git
+
 -EOF-
